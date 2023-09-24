@@ -73,9 +73,9 @@
 
 <h3 align="left">Connect with me :</h3>
   <p align="left">
-    <a href="discordapp.com/users/678973465344344074" target="blank" rel="noreferrer"> </a><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" height="50" width="50" />
-    <a href="https://linkedin.com/in/aditya-gupta-54b38322a/" target="blank" rel="noreferrer"> </a><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="50" width="50" />
-    <a href="https://stackoverflow.com/users/22229349/aditya-gupta" target="blank" rel="noreferrer"> </a><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" height="50" width="50" />
+    <a href="https://discordapp.com/users/678973465344344074" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="codecommander03" height="50" width="50" /></a>
+    <a href="https://linkedin.com/in/aditya-gupta-54b38322a/" target="blank"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="50" width="50" />
+    <a href="https://stackoverflow.com/users/22229349/aditya-gupta" target="blank" rel="noreferrer"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" height="50" width="50" />
     <a href="https://www.codechef.com/users/code_commander" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="code_commander" height="50" width="50" /></a>
     <a href="https://codeforces.com/profile/codecommander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codecommander" height="50" width="50" /></a>
     <a href="https://www.leetcode.com/codecommander03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codecommander03" height="50" width="50" /></a>

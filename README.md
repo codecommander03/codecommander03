@@ -64,12 +64,17 @@
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" height="50" width="50" />
 </p>
 
+<h3 align="left">Devops :</h3>
+<p align="left">
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" height="50" width="50" />
+</p>    
+
 <h3 align="left">Worked with :</h3>
 <p align="left">
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg" height="50" width="50" />
-</p>    
+</p> 
 
 <h3 align="left">Connect with me :</h3>
   <p align="left">

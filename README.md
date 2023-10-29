@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi <img height="30px" src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif"/>, I'm Aditya Gupta</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack web developer from India</h3>
 
 
 <img align="left" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="60%" />

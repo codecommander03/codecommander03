@@ -67,6 +67,8 @@
 <h3 align="left">Devops :</h3>
 <p align="left">
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" height="50" width="50" />
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" height="50" width="50" />
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" height="50" width="50" />
 </p>    
 
 <h3 align="left">Worked with :</h3>

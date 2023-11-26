@@ -21,9 +21,10 @@
 - 📫 How to reach me **ag5303331@gmail.com**
 
 [![Google Cloud Skills Boost](https://img.shields.io/badge/Google%20Cloud%20Skills%20Boost-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/e9dc5fa9-09f4-47e3-b86d-746e7f816a88)
+[![Google Developers Profile](https://img.shields.io/badge/Google%20Developers-Profile-blue?style=flat&logo=google)](https://developers.google.com/profile/u/aditya03)
+[![Quine Profile](https://img.shields.io/badge/Quine%20Profile-blue)](http://quine.sh/user/codecommander03)
 <!-- [![Google Developer Groups](https://img.shields.io/badge/GDG-%23000000.svg?style=plastic&logo=google-developers&logoColor=white)]() -->
 <!-- [![Google Developer Student Clubs](https://img.shields.io/badge/GDSC-%23EA4335.svg?style=plastic&logo=google-developers&logoColor=white)]() -->
-[![Google Developers Profile](https://img.shields.io/badge/Google%20Developers-Profile-blue?style=flat&logo=google)](https://developers.google.com/profile/u/aditya03)
 
 <h3 align="left">Languages :</h3>
 <p align="left">

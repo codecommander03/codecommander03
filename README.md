@@ -92,9 +92,14 @@
     <a href="https://www.leetcode.com/codecommander03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codecommander03" height="50" width="50" /></a>
 </p>
 
-<div> <img align="left" width="500" src="https://github-readme-stats.vercel.app/api?username=codecommander03&show_icons=true&locale=en" alt="codecommander03" />
+<a>
+    <img align="left" width="500" src="https://github-readme-stats.vercel.app/api?username=codecommander03&show_icons=true&locale=en&theme=algolia" alt="codecommander03" />
+</a>
 
-<img width="400" height="300" position:relative top:200px align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codecommander03&show_icons=true&locale=en&layout=compact" alt="codecommander03" /> </div>
+<a>
+    <img width="400" height="300" position:relative top:200px align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codecommander03&show_icons=true&locale=en&layout=compact&theme=algolia" alt="codecommander03" /> </div>
+</a>
 
-
-<p><img width="700" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codecommander03&" alt="codecommander03" /></p>
+<a>
+    <img width="700" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codecommander03&theme=algolia" alt="codecommander03" />
+</a>

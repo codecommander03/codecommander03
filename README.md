@@ -108,3 +108,5 @@
 <a>
     <img width="700" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codecommander03&theme=algolia" alt="codecommander03" />
 </a>
+
+![snake gif](https://github.com/codecommander03/codecommander03/blob/output/github-contribution-grid-snake.svg)

@@ -45,6 +45,8 @@
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" height="50" width="50" />
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" height="50" width="50" />
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg" height="50" width="50" />
 </p>
 
   <h3 align="left">Backend and Databases :</h3>
@@ -67,6 +69,7 @@
   <h3 align="left">Other Tools / Editors :</h3>
   <p align="left">
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="50" width="50" />
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Dark.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Atom.svg" height="50" width="50" />

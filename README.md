@@ -14,7 +14,7 @@
 <a href="https://wakatime.com/@codecommander03"><img  src="https://wakatime.com/badge/user/bc55aa8e-b062-4f70-92ec-9dfc1946ebde.svg" alt="Total time coded since Sep 19 2023" /></a>
 
 
-- 🌱 I’m currently learning **Blockchain**  <img height="20px" position:relative top:200px src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
+- 🌱 I’m currently learning **Blockchain**
 
 - 💬 Ask me about <img height="30px" src="https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif"/> <img height="30px" src="https://user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif"/> <img height="30px" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"/><img height="30px" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif"/>
 

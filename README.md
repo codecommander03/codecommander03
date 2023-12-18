@@ -25,6 +25,8 @@
 [![Quine Profile](https://img.shields.io/badge/Quine%20Profile-blue)](http://quine.sh/user/codecommander03)
 <!-- [![Google Developer Groups](https://img.shields.io/badge/GDG-%23000000.svg?style=plastic&logo=google-developers&logoColor=white)]() -->
 <!-- [![Google Developer Student Clubs](https://img.shields.io/badge/GDSC-%23EA4335.svg?style=plastic&logo=google-developers&logoColor=white)]() -->
+[![Medium Profile](https://img.shields.io/badge/Medium%20Profile-blue)](https://medium.com/@codecommander03)
+[![DEV Profile](https://img.shields.io/badge/DEV%20Profile-blue)](https://dev.to/aditya__)
 
 <h3 align="left">Languages :</h3>
 <p align="left">

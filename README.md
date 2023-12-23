@@ -59,14 +59,14 @@
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" height="50" width="50" />
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" height="50" width="50" />
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" height="50" width="50" />
 </p>
 
-<h3 align="left">Integrations :</h3>
+<h3 align="left">Familiar with :</h3>
   <p align="left">
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" height="50" width="50" />
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" height="50" width="50" />
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" height="50" width="50" />
 </p>
 
   <h3 align="left">Other Tools / Editors :</h3>

@@ -8,7 +8,7 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="60%" />
 
-<img align="right" alt="coding" width="400" height="250" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
+<img align="right" alt="coding" width="450" height="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <img align="left" src="https://komarev.com/ghpvc/?username=codecommander03&label=Profile%20views&color=0e75b6&style=flat" alt="codecommander03" />
 <a href="https://wakatime.com/@codecommander03"><img  src="https://wakatime.com/badge/user/bc55aa8e-b062-4f70-92ec-9dfc1946ebde.svg" alt="Total time coded since Sep 19 2023" /></a>

@@ -37,6 +37,7 @@
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="50" width="50" />
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" height="50" width="50" />
 </p>
 

@@ -104,6 +104,8 @@
     <a href="https://www.leetcode.com/codecommander03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codecommander03" height="50" width="50" /></a>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 <a>
     <img align="left" width="500" src="https://github-readme-stats.vercel.app/api?username=codecommander03&show_icons=true&locale=en&theme=algolia" alt="codecommander03" />
 </a>

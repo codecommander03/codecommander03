@@ -50,7 +50,6 @@
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg" height="50" width="50" />
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" height="50" width="50" />
 </p>
 
   <h3 align="left">Backend and Databases :</h3>
@@ -61,6 +60,7 @@
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" height="50" width="50" />
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" height="50" width="50" />
 </p>
 
 <h3 align="left">Familiar with :</h3>

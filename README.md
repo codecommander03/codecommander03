@@ -38,6 +38,7 @@
     <img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" height="50" width="50" />
+    <img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" height="50" width="50" />
 </p>
 
@@ -50,6 +51,7 @@
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg" height="50" width="50" />
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" height="50" width="50" />
 </p>
 
   <h3 align="left">Backend and Databases :</h3>

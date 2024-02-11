@@ -28,6 +28,8 @@
 [![Medium Profile](https://img.shields.io/badge/Medium%20Profile-blue)](https://medium.com/@codecommander03)
 [![DEV Profile](https://img.shields.io/badge/DEV%20Profile-blue)](https://dev.to/aditya__)
 
+<br>
+
 <h3 align="left">Languages :</h3>
 <p align="left">
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" height="50" width="50" /> 
@@ -40,6 +42,7 @@
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" height="50" width="50" />
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" height="50" width="50" />
 </p>
 
   <h3 align="left">Frameworks :</h3>

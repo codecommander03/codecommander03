@@ -14,7 +14,7 @@
 <a href="https://wakatime.com/@codecommander03"><img  src="https://wakatime.com/badge/user/bc55aa8e-b062-4f70-92ec-9dfc1946ebde.svg" alt="Total time coded since Sep 19 2023" /></a>
 
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Next js intricities**
 
 - 💬 Ask me about **Javascript**
 

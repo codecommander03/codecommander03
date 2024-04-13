@@ -42,7 +42,6 @@
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" height="50" width="50" />
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" height="50" width="50" />
 </p>
 
   <h3 align="left">Frameworks :</h3>

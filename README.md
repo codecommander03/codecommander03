@@ -67,6 +67,7 @@
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" height="50" width="50" />
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" height="50" width="50" />
 </p>
 
 <h3 align="left">Familiar with :</h3>
@@ -76,6 +77,7 @@
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" height="50" width="50" />
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" height="50" width="50" />
 </p>
 
   <h3 align="left">Other Tools / Editors :</h3>
@@ -87,6 +89,7 @@
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Atom.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CodePen-Dark.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" height="50" width="50" />
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" height="50" width="50" />
 </p>
 
 <h3 align="left">Devops :</h3>

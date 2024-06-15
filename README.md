@@ -32,12 +32,12 @@
 
 <h3 align="left">Languages :</h3>
 <p align="left">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" height="50" width="50" /> 
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" height="50" width="50" />
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" height="50" width="50" /> 
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" height="50" width="50" />
@@ -46,13 +46,16 @@
 
   <h3 align="left">Frameworks :</h3>
   <p align="left">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" height="50" width="50" />
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" height="50" width="50" />
+    <img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sass.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" height="50" width="50" />
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" height="50" width="50" />
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" height="50" width="50" />
+    <img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vercel-Dark.svg" height="50" width="50" />
+    <br/> <p/>
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ThreeJS-Dark.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" height="50" width="50" />
 </p>
@@ -64,10 +67,12 @@
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" height="50" width="50" />
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" height="50" width="50" />
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" height="50" width="50" />
+    <br/><p/>
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" height="50" width="50" />
+    <img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sentry.svg" height="50" width="50" />
 </p>
 
 <h3 align="left">Familiar with :</h3>

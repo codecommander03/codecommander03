@@ -1,3 +1,4 @@
+<!-- Comment1
 ![Header](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 
 
@@ -25,6 +26,7 @@
 [![Quine Profile](https://img.shields.io/badge/Quine%20Profile-blue)](http://quine.sh/user/codecommander03)
 <!-- [![Google Developer Groups](https://img.shields.io/badge/GDG-%23000000.svg?style=plastic&logo=google-developers&logoColor=white)]() -->
 <!-- [![Google Developer Student Clubs](https://img.shields.io/badge/GDSC-%23EA4335.svg?style=plastic&logo=google-developers&logoColor=white)]() -->
+<!-- Comment2
 [![Medium Profile](https://img.shields.io/badge/Medium%20Profile-blue)](https://medium.com/@codecommander03)
 [![DEV Profile](https://img.shields.io/badge/DEV%20Profile-blue)](https://dev.to/aditya__)
 
@@ -136,3 +138,5 @@
 </a>
 
 ![Snake animation](https://raw.githubusercontent.com/codecommander03/codecommander03/b27bb9b257b3e12e8bb0cabd7f9d3df5dbb009ae/github-contribution-grid-snake-dark.svg)
+-->Comment 2
+Nothing here

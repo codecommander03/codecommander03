@@ -138,5 +138,5 @@
 </a>
 
 ![Snake animation](https://raw.githubusercontent.com/codecommander03/codecommander03/b27bb9b257b3e12e8bb0cabd7f9d3df5dbb009ae/github-contribution-grid-snake-dark.svg)
--->Comment 2
+Comment 2-->
 Nothing here
